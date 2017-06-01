@@ -1,0 +1,17 @@
+{
+  "name": "f1-calendar",
+  "version": "1.0.0",
+  "description": "Alexa Skill to find out information about the next F1 race",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Crocker",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.9",
+    "moment": "^2.18.1",
+    "request": "^2.81.0",
+    "sprintf": "^0.1.5"
+  }
+}
